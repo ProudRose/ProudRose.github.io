@@ -2,7 +2,7 @@
 title: 谷歌 CSS、HTML 书写规范简要记录
 date: 2023-6-9 16:39:00 +0800 # 2022-01-01 13:14:15 +0800 只写日期也行；不写秒也行；这样也行 2022-03-09T00:55:42+08:00
 categories: [CSS]
-tags: [CSS HTML]     # TAG names should always be lowercase
+tags: [CSS,HTML]     # TAG names should always be lowercase
 
 # 以下默认false
 math: true
