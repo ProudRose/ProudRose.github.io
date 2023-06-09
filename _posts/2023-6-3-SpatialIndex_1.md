@@ -1,7 +1,7 @@
 ---
 title: 空间索引（一）
 date: 2023-6-3 20:24:45 +0800 # 2022-01-01 13:14:15 +0800 只写日期也行；不写秒也行；这样也行 2022-03-09T00:55:42+08:00
-categories: [WEBGIS,Spatial Index]
+categories: [WEBGIS]
 tags: [spatial_index]     # TAG names should always be lowercase
 
 # 以下默认false

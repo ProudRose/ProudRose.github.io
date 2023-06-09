@@ -1,8 +1,8 @@
 ---
 title: GeoServer 切片地图，XYZ 数据格式转换
 date: 2022-11-18 11:49:29 +0800 # 2022-01-01 13:14:15 +0800 只写日期也行；不写秒也行；这样也行 2022-03-09T00:55:42+08:00
-categories: [WEBGIS,GEOSERVER]
-tags: [ruby github-page]     # TAG names should always be lowercase
+categories: [WEBGIS]
+tags: [webgis tilemap]     # TAG names should always be lowercase
 
 # 以下默认false
 math: true
